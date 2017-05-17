@@ -1,0 +1,8 @@
+body{margin:0 auto; width:940px;}
+/*=== menu ===*/
+#nav { width: 905px; background: #fff; margin: 20px; float: left; border-radius: 5px;}
+#nav  ul { margin: 0; padding: 0; list-style: none; width: 100%; float: left; }
+#nav  ul li {float: left; font: 16px arial; }
+#nav  ul li a {color: #888; text-decoration: none; padding: 11px 69px; display: block;}
+#nav  ul li:hover {background: #5C4033;}
+#nav  ul li .home {background: #049; float: left; width: 100%; padding;}
